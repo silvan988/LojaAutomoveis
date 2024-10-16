@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LojaAutomoveis</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="empty_list">Lista de veículos vazia</string>
+    <string name="marca">Marca:</string>
+    <string name="modelo">Modelo:</string>
+    <string name="placa">Placa:</string>
+    <string name="chassi">Chassi:</string>
+    <string name="cor">Cor:</string>
+    <string name="documentos">Documentos:</string>
+    <string name="pre_o">Preço:</string>
+    <string name="tipo">Tipo:</string>
+</resources>
